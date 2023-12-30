@@ -2,7 +2,7 @@ Project Title
 Data Analysis and Machine Learning on Biological Measurements Dataset
 
 # Project Description
-This project involves analyzing a dataset containing biological measurements and other attributes of various subjects (likely animals). The primary goal is to understand relationships within the data, preprocess it, and use machine learning techniques to draw meaningful insights. The analysis is conducted in a Jupyter Notebook, Halil Ibrahim Umut-Colak-CS412-HW1.ipynb, which includes steps for data loading, preprocessing, feature analysis, and model preparation.
+This project involves analyzing a dataset containing biological measurements and other attributes of various subjects (likely animals). The primary goal is to understand relationships within the data, preprocess it, and use machine learning techniques to draw meaningful insights. The analysis is conducted in a Jupyter Notebook includes steps for data loading, preprocessing, feature analysis, and model preparation.
 
 # Dataset
 The dataset, dataset.csv, consists of 3430 entries with 11 attributes, including species, island, various physical measurements (bill length, bill depth, flipper length, body mass), sex, diet, life stage, health metrics, and year of data collection.
